@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am a Penultimate Year Computer Science student from the National University of Singapore.
+#### I am a Computer Science graduate from the National University of Singapore.
 
 
 #### Programming Languages
